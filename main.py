@@ -1,2 +1,2 @@
 A = input("digite seu nome")
-print("Nome =Rodri", A)
+print("Nome =", A)
