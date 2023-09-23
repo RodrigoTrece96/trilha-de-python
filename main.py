@@ -1,1 +1,2 @@
-print('Hello World')
+A = input("digite seu nome")
+print("Nome =Rodri", A)
